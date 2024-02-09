@@ -3,11 +3,8 @@ import html from "../../../assets/html.png";
 import css from "../../../assets/css.png";
 import javascript from "../../../assets/javascript.png";
 import react from "../../../assets/react.png";
-import vue from "../../../assets/vue.png";
 import git from "../../../assets/git.png";
 import github from "../../../assets/github.png";
-import node from "../../../assets/node.png";
-import nextjs from "../../../assets/nextjs.png";
 import postgres from "../../../assets/postgres.png";
 import redux from "../../../assets/redux.png";
 import tailwind from "../../../assets/tailwind.png";
@@ -16,55 +13,55 @@ const Techs = () => {
   const techs = [
     {
       id: 1,
-      src: html,
+      src: `./${html}`,
       title: "HTML",
       style: "shadow-orange-500",
     },
     {
       id: 2,
-      src: css,
+      src: `./${css}`,
       title: "CSS",
       style: "shadow-blue-500",
     },
     {
       id: 3,
-      src: javascript,
+      src: `./${javascript}`,
       title: "JavaScript",
       style: "shadow-yellow-400",
     },
     {
       id: 4,
-      src: react,
+      src: `./${react}`,
       title: "React",
       style: "shadow-cyan-400",
     },
     {
       id: 6,
-      src: tailwind,
+      src: `./${tailwind}`,
       title: "Tailwind CSS",
       style: "shadow-cyan-700",
     },
     {
       id: 9,
-      src: git,
+      src: `./${git}`,
       title: "Git",
       style: "shadow-orange-600",
     },
     {
       id: 10,
-      src: github,
+      src: `./${github}`,
       title: "GitHub",
       style: "shadow-white",
     },
     {
       id: 11,
-      src: postgres,
+      src: `./${postgres}`,
       title: "PostgreSQL",
       style: "shadow-blue-400",
     },
     {
       id: 12,
-      src: redux,
+      src: `./${redux}`,
       title: "Redux",
       style: "shadow-violet-700",
     },

@@ -10,7 +10,7 @@ function App() {
       <SocialLinks />
 
       <Routes>
-        <Route path="/" element={<HomePage />} />
+        <Route path="/potfolio2" element={<HomePage />} />
       </Routes>
     </>
   );
