@@ -1,7 +1,8 @@
 {
-  "name": "portafolio.rachita",
+  "name": "portfolio.rachita",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://gitname.github.io/portfolio2",
   "type": "module",
   "scripts": {
     "dev": "vite",
