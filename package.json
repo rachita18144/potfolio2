@@ -2,7 +2,7 @@
   "name": "portfolio.rachita",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gitname.github.io/portfolio2",
+  "homepage": "https://rachita18144.github.io/potfolio2",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,7 +10,7 @@
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "deploy" : "gh-pages -d dist"
   },
   "dependencies": {
     "@react-hook/media-query": "^1.1.1",
